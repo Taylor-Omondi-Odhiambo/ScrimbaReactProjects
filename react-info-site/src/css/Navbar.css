@@ -1,0 +1,21 @@
+
+.navbar{
+    padding: 10px 15px;
+    display: flex;
+    background-color: #21222A;
+    color: #61DAFB;
+    margin: 0;
+}
+
+.navbar--img{
+    margin-top: 18px;
+    margin-right: 10px;
+    width: 27px;
+    height: 30px;
+}
+
+.navbar--title{
+    margin-right: auto;
+}
+
+

@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    
+    margin: 0;
+    background-color: #282D35;
+    background-image: url("/images/background-logo.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 100%;
+}

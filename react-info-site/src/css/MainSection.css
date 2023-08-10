@@ -1,0 +1,12 @@
+.content{
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+
+.list > li{
+    margin-top: 10px;
+}
+
+.list > li ::marker{
+    color: #61DAFB;
+}
