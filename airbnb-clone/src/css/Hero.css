@@ -1,0 +1,19 @@
+
+.hero--img{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    min-width: 450px;
+    max-width: 450px;
+    min-height: 258px;
+    max-height: 258px;
+}
+.hero--text{
+    position: relative;
+    left:520px;
+    max-width: 280px;
+}
+
+.hero--text >h2{
+    margin-bottom: 0;
+}

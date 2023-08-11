@@ -1,0 +1,35 @@
+.card{
+   width: 175px;
+   font-size: 12px;
+    display: flex;
+    flex-direction:column;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+/*
+flex: 0 0 auto;        
+display: flex;         
+flex-direction: column; 
+position: relative;
+*/
+.card--img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.card--badge{
+    position: absolute;
+    background-color: #FFFFFF;
+    left: 5px;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+
+
+
+
+.card--star{
+    height: 14px;
+}
