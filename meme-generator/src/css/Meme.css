@@ -1,0 +1,28 @@
+.meme{
+    padding: 100px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+}
+
+.meme--input{
+    height: 35px;
+    border: 1px solid #d5d4d8;
+    border-radius: 5px;
+}
+
+.meme--btn{
+    height: 40px;
+    border-radius:5px;
+    border-color: none;
+    color: #FFFFFF;
+    background-color: #672280;
+    grid-column: 1 / -1;
+}
+
+.meme--img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    max-height: 400px;
+}
